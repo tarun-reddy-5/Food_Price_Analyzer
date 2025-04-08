@@ -585,8 +585,4 @@ def home():
 if __name__ == '__main__':
     app.run(debug=True)
 
-# oracle_username = 'tarunred.nimmala'
-# oracle_password = '8SsWDreZu5aV0RD7cQp7TLie'
-# oracle_host = 'oracle.cise.ufl.edu'
-# oracle_port = '1521'
-# oracle_service_name = 'orcl'
+
